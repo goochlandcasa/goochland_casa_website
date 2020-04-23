@@ -39,11 +39,11 @@ mainContactLink.addEventListener('click', (e) => {
 });
 
 mainGalleryLink.addEventListener('click', (e) => {
-  location = "./second.html#gallery-section";
+  location = "./second.html";
 });
 mainHistoryLink.addEventListener('click', (e) => {
-  location = "./second.html#history-section";
+  location = "./second.html#history-start";
 });
 mainBoardLink.addEventListener('click', (e) => {
-  location = "./second.html#board-section";
+  location = "./second.html#board-start";
 });

@@ -15,11 +15,11 @@ indexContactLink.addEventListener('click', (e) => {
   location = "./main.html#contact-section";
 });
 indexGalleryLink.addEventListener('click', (e) => {
-  location = "./second.html#gallery-section";
+  location = "./second.html";
 });
 indexHistoryLink.addEventListener('click', (e) => {
-  location = "./second.html#history-section";
+  location = "./second.html#history-start";
 });
 indexBoardLink.addEventListener('click', (e) => {
-  location = "./second.html#board-section";
+  location = "./second.html#board-start";
 });
